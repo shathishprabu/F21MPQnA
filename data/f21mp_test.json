@@ -1,0 +1,199 @@
+{
+	"version": "v1.0",
+	"data": [{
+			"title": "Laundry",
+			"paragraphs": [{
+					"qas": [{
+							"question": "How long it will take for express laundry?",
+							"id": "b7777aede49c11eb859e000d3af01b7f",
+							"answers": [{
+								"text": "5 hours",
+								"answer_start": 58
+							}],
+							"is_impossible": false
+						},
+						{
+							"question": "Is there any additional charges for express laundry?",
+							"id": "c050e7a4e49c11eb8e93000d3af01b7f",
+							"answers": [{
+								"text": "50%",
+								"answer_start": 91
+							}],
+							"is_impossible": false
+						},
+						{
+							"question": "Does the additional charges for all items?",
+							"id": "c501cd99e49c11ebadd4000d3af01b7f",
+							"answers": [{
+								"text": "Each item",
+								"answer_start": 67
+							}],
+							"is_impossible": false
+						}
+					],
+					"context": "Our Express laundry service will return your items within 5 hours. Each item is subject to 50% additional charge."
+				},
+				{
+					"qas": [{
+							"question": "What time items will be collected for regular laundry service?",
+							"id": "cadabe90e49c11ebbded000d3af01b7f",
+							"answers": [{
+								"text": "10am",
+								"answer_start": 52
+							}],
+							"is_impossible": false
+						},
+						{
+							"question": "What will be the delivery time for regular laundry service?",
+							"id": "d133f1f9e49c11eb96b2000d3af01b7f",
+							"answers": [{
+								"text": "6-8pm same day",
+								"answer_start": 83
+							}],
+							"is_impossible": false
+						},
+						{
+							"question": "What time it will be delivered if items collected after 10 am?",
+							"id": "d58901d8e49c11eba24e000d3af01b7f",
+							"answers": [{
+								"text": "10am-12pm on the following day",
+								"answer_start": 144
+							}],
+							"is_impossible": false
+						}
+					],
+					"context": "Our Regular Laundry Service: Items collected before 10am will be delivered between 6-8pm same day. Items collected after 10am will be delivered 10am-12pm on the following day."
+				},
+				{
+					"qas": [{
+						"question": "How long it will take for regular pressing?",
+						"id": "d9d54cf4e49c11eb959b000d3af01b7f",
+						"answers": [{
+							"text": "within 4 hour",
+							"answer_start": 62
+						}],
+						"is_impossible": false
+					}],
+					"context": "Our regular pressing service will return your collected items within 4 hours."
+				},
+				{
+					"qas": [{
+						"question": "Is there any additional charges applicable?",
+						"id": "dec72384e49c11ebb3a6000d3af01b7f",
+						"answers": [{
+							"text": "50%",
+							"answer_start": 91
+						}],
+						"is_impossible": false
+					},{
+						"question": "How long it will take for express pressing?",
+						"id": "d9d54cf4e49c11eb959b000d3af01b7f",
+						"answers": [{
+							"text": "within an hour",
+							"answer_start": 62
+						}],
+						"is_impossible": false
+					}],
+					"context": "Our express pressing service will deliver the collected items within an hour, Subject to a 50% additional charge."
+				}
+			]
+		},
+		{
+			"title": "Room Service",
+			"paragraphs": [{
+					"qas": [{
+							"question": "What is the contact number to reach the reservations team for room booking?",
+							"id": "e5b28fd8e49c11eb9ed8000d3af01b7f",
+							"answers": [{
+								"text": "+971 4 364 7555",
+								"answer_start": 159
+							}],
+							"is_impossible": false
+						},
+						{
+							"question": "What is the email to reach the Reservations Team for room booking?",
+							"id": "eaa4c8c8e49c11eba2cf000d3af01b7f",
+							"answers": [{
+								"text": "reservations@abc.com",
+								"answer_start": 204
+							}],
+							"is_impossible": false
+						},
+						{
+							"question": "What information you need for call back?",
+							"id": "eaa4c8c8e49c11eba2cf000d3af01b7f",
+							"answers": [{
+								"text": "contact details including your e-mail address",
+								"answer_start": 23
+							}],
+							"is_impossible": false
+						}
+					],
+					"context": "Kindly provide us your contact details including your e-mail address and our Reservations Team shall get back to you.Alternatively, you may also reach them at +971 4 364 7555 or you may send an e-mail to reservations@abc.com."
+				},
+				{
+					"qas": [{
+							"question": "Which wifi network can be used?",
+							"id": "f0191f26e49c11eb9081000d3af01b7f",
+							"answers": [{
+								"text": "iJumeirah",
+								"answer_start": 47
+							}],
+							"is_impossible": false
+						},
+						{
+							"question": "Does it requires any credentials?",
+							"id": "f4a68800e49c11ebbcae000d3af01b7f",
+							"answers": [{
+								"text": "open a web browser and click on the CONNECT button",
+								"answer_start": 179
+							}],
+							"is_impossible": false
+						}
+					],
+					"context": "To set up the Wi-Fi please select the network 'iJumeirah'.This will present a welcome to Jumeirah page - Please click the CONNECT button and you shall be connected. Or otherwise, open a web browser and click on the CONNECT button."
+				},
+				{
+					"qas": [{
+							"question": "What is the breakfast serving period in Mundo during weekdays?",
+							"id": "fe82ae3ae49c11ebbc45000d3af01b7f",
+							"answers": [{
+								"text": "6am till 11am",
+								"answer_start": 79
+							}],
+							"is_impossible": false
+						},
+						{
+							"question": "What is the breakfast serving period in Mundo during weekends?",
+							"id": "fe82ae3ae49c11ebbc45000d3af01b7f",
+							"answers": [{
+								"text": "6am till 11:30am",
+								"answer_start": 118
+							}],
+							"is_impossible": false
+						},
+						{
+							"question": "Where is the Mundo restaurant located?",
+							"id": "fe82ae3ae49c11ebbc45000d3af01b7f",
+							"answers": [{
+								"text": "lobby level",
+								"answer_start": 51
+							}],
+							"is_impossible": false
+						},
+						{
+							"question": "Which restaurant serves buffet breakfast?",
+							"id": "fe82ae3ae49c11ebbc45000d3af01b7f",
+							"answers": [{
+								"text": "Mundo",
+								"answer_start": 30
+							}],
+							"is_impossible": false
+						}
+					],
+					"context": "Buffet breakfast is served in Mundo located in the lobby level (UL) daily from 6am till 11am during weekdays and from 6am till 11:30am on Fridays and Saturdays."
+				}
+			]
+		}
+	]
+}
